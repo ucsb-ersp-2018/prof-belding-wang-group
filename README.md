@@ -19,3 +19,19 @@ We are second year CS/CE undergraduates working with [Professor William Wang](ht
 
 ## Project Docs
 All our project documents are available in the following private repositories. For access please contact: diba@ucsb.edu
+
+
+## NLP resources
+* Recent advancements for common tasks of NLP https://github.com/sebastianruder/NLP-progress
+* Jurafsky's Speech and Language Processing textbook https://web.stanford.edu/~jurafsky/slp3/
+* Deep Learning, An MIT Press book, Ian Goodfellow and Yoshua Bengio and Aaron Courville
+HTML version of the book: http://www.deeplearningbook.org/
+* 
+
+## NLP Conferences
+* Recent papers from ACL, EMNLP, NAACL from ACL Anthology: http://aclweb.org/anthology/
+* Recent papers from ICML, NIPS, and ICLR conferences: http://jmlr.org/proceedings/ http://papers.nips.cc/
+
+## Social Computing Conferences:
+* ICWSM https://icwsm.org/2018/
+* CSCW https://cscw.acm.org/2018/
