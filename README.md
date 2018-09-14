@@ -1,4 +1,4 @@
-## Welcome to Professor Wang and Professor Belding's ERSP Group Site!
+## Welcome to Our ERSP Group Site!
 
 We are second year CS/CE undergraduates working with [Professor William Wang](https://www.cs.ucsb.edu/~william/) and [Professor Elizabeth Belding](http://people.cs.ucsb.edu/ebelding/front-page). Our project is about ....
 
