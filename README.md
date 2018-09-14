@@ -1,4 +1,4 @@
-## Welcome to Professor Wang and Professor Belding's ERSP Group!
+## Welcome to Professor Wang and Professor Belding's ERSP Group Site!
 
 We are second year CS/CE undergraduates working with [Professor William Wang](https://www.cs.ucsb.edu/~william/) and [Professor Elizabeth Belding](http://people.cs.ucsb.edu/ebelding/front-page). Our project is about ....
 
@@ -11,15 +11,11 @@ We are second year CS/CE undergraduates working with [Professor William Wang](ht
 
 ## Weekly Meeting Times
 
-Research Group Meeting Times: TBD
-
-Meeting with Research Mentor: TBD
-
-Meeting with ERSP Grad Mentor:
-
-Meeting with Dr. Mirza:
-
+* Research Group Meeting Times: TBD
+* Meeting with Research Mentor: TBD
+* Meeting with ERSP Grad Mentor (May):
+* Meeting with Dr. Mirza:
 
 
 ## Project Docs
-All our project documents are available in a private repository. For access please contact: diba@ucsb.edu
+All our project documents are available in the following private repositories. For access please contact: diba@ucsb.edu
