@@ -26,7 +26,7 @@ All our project documents are available in the following private repositories. F
 * Jurafsky's Speech and Language Processing textbook https://web.stanford.edu/~jurafsky/slp3/
 * Deep Learning, An MIT Press book, Ian Goodfellow and Yoshua Bengio and Aaron Courville
 HTML version of the book: http://www.deeplearningbook.org/
-* 
+
 
 ## NLP Conferences
 * Recent papers from ACL, EMNLP, NAACL from ACL Anthology: http://aclweb.org/anthology/
