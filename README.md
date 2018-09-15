@@ -37,7 +37,7 @@ HTML version of the book: [http://www.deeplearningbook.org/](http://www.deeplear
 * CSCW [https://cscw.acm.org/2018/](https://cscw.acm.org/2018/)
 
 ## Project Specific Docs (Private)
-All our project documents are available in the following private repositories. If you are a collaborator or mentor, and would like access, please contact: diba@ucsb.edu
+All our project documents are available in the following private repositories. If you are a collaborator or mentor, and would like access, please contact: diba@ucsb.edu or mai.h.sherief@gmail.com
 
 ### Individual logs: 
 * [Andrew's log](https://github.com/ucsb-ersp-2018/nlp-andrew-log.git)
