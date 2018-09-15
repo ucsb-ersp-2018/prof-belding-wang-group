@@ -1,6 +1,6 @@
 ## Welcome to Our ERSP Group Site!
 
-We are second year CS/CE undergraduates working with[Professor William Wang](https://www.cs.ucsb.edu/~william/), [Professor Elizabeth Belding](http://people.cs.ucsb.edu/ebelding/front-page) and their graduate student [May ElSherief](http://moment.cs.ucsb.edu/people/mai-el-sherief) as part of the [UCSB ERSP program](https://sites.google.com/site/erspucsb/home). Our project is about ....
+We are second year CS/CE undergraduates working with [Professor William Wang](https://www.cs.ucsb.edu/~william/), [Professor Elizabeth Belding](http://people.cs.ucsb.edu/ebelding/front-page) and their PhD student [May ElSherief](http://moment.cs.ucsb.edu/people/mai-el-sherief), as part of the [UCSB ERSP program](https://sites.google.com/site/erspucsb/home). Our project is about ....
 
 
 * Andrew Gaut: Insert picture and write a few words about yourself
