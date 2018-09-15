@@ -30,7 +30,7 @@ HTML version of the book: [http://www.deeplearningbook.org/](http://www.deeplear
 
 ## NLP Conferences
 * Recent papers from ACL, EMNLP, NAACL from ACL Anthology: [http://aclweb.org/anthology/](http://aclweb.org/anthology/)
-* Recent papers from ICML, NIPS, and ICLR conferences: [http://jmlr.org/proceedings/ http://papers.nips.cc/](http://jmlr.org/proceedings/ http://papers.nips.cc/)
+* Recent papers from ICML, NIPS, and ICLR conferences: [http://jmlr.org/proceedings/](http://jmlr.org/proceedings/), http://papers.nips.cc/](http://papers.nips.cc/)
 
 ## Social Computing Conferences:
 * ICWSM [https://icwsm.org/2018/](https://icwsm.org/2018/)
