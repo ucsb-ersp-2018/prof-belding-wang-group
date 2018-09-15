@@ -25,7 +25,7 @@ All our project documents are available in the following private repositories. F
 * Recent advancements for common tasks of NLP [https://github.com/sebastianruder/NLP-progress](https://github.com/sebastianruder/NLP-progress)
 * Jurafsky's Speech and Language Processing textbook [https://web.stanford.edu/~jurafsky/slp3/](https://web.stanford.edu/~jurafsky/slp3/)
 * Deep Learning, An MIT Press book, Ian Goodfellow and Yoshua Bengio and Aaron Courville
-HTML version of the book: [http://www.deeplearningbook.org/](https://web.stanford.edu/~jurafsky/slp3/)
+HTML version of the book: [http://www.deeplearningbook.org/](http://www.deeplearningbook.org/)
 
 
 ## NLP Conferences
