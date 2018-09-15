@@ -17,7 +17,7 @@ We are second year CS/CE undergraduates working with [Professor William Wang](ht
 * Meeting with Dr. Mirza:
 
 
-## Project Docs
+## Public Resources
 All our project documents are available in the following private repositories. For access please contact: diba@ucsb.edu
 
 
@@ -35,3 +35,16 @@ HTML version of the book: [http://www.deeplearningbook.org/](http://www.deeplear
 ## Social Computing Conferences:
 * ICWSM [https://icwsm.org/2018/](https://icwsm.org/2018/)
 * CSCW [https://cscw.acm.org/2018/](https://cscw.acm.org/2018/)
+
+## Project Specific Docs (Private)
+All our project documents are available in the following private repositories. If you are a collaborator or mentor, and would like access, please contact: diba@ucsb.edu
+
+### Individual logs: 
+* [Andrew's log](https://github.com/ucsb-ersp-2018/nlp-andrew-log.git)
+* [Shirlyn's log](https://github.com/ucsb-ersp-2018/nlp-shirlyn-log.git)
+* [Tony's log](https://github.com/ucsb-ersp-2018/nlp-tony-log.git)
+* [Yuxin's log](https://github.com/ucsb-ersp-2018/nlp-yuxin-log.git)
+
+### Group Log
+
+* [NLP Group log](https://github.com/ucsb-ersp-2018/nlp-group-log.git)
