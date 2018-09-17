@@ -12,7 +12,7 @@ Our cohort:
 ## Weekly Meeting Times
 
 * Research Group Meeting Times: TBD
-* Meeting with Research Mentor: Thu 2:30-3pm, HFH 1152
+* Meeting with Professor Wang: Thu 2:30-3pm, HFH 1152
 * Meeting with ERSP Grad Mentor (May):
 * Meeting with Dr. Mirza:
 
