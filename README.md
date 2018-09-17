@@ -1,9 +1,9 @@
 ## Welcome to Our ERSP Group Site!
 
-We are second year CS/CE undergraduates working with [Professor William Wang](https://www.cs.ucsb.edu/~william/), [Professor Elizabeth Belding](http://people.cs.ucsb.edu/ebelding/front-page) and their PhD student May ElSherief, as part of the [UCSB ERSP program](https://sites.google.com/site/erspucsb/home). Our project is about ....
+We are second year CS/CE undergraduates working with [Professor William Wang](https://www.cs.ucsb.edu/~william/), [Professor Elizabeth Belding](http://people.cs.ucsb.edu/ebelding/front-page) and their PhD student May ElSherief, as part of the [UCSB ERSP program](https://sites.google.com/site/erspucsb/home). In this project, we would like to understand the gender bias in Natural Language Processing problems and Machine Learning models. Gender bias is a type of algorithmic bias, which could lead to unfair machine learning systems that further reinforce social biases and lead to gender discrimination. We would like to explore two dimensions of the study in this direction: in the Fall quarter, we would like to perform a comprehensive review of the literature and write a survey paper on gender bias in NLP and ML. In the Winter quarter and Spring quarter, we will put the theories into practices, and investigate the gender bias issues in knowledge graphs.
 
-
-* Andrew Gaut: Insert picture and write a few words about yourself
+Our cohort:
+* Andrew Gaut
 * Shirlyn Tang
 * Tony Sun
 * Yuxin Huang  
@@ -12,7 +12,7 @@ We are second year CS/CE undergraduates working with [Professor William Wang](ht
 ## Weekly Meeting Times
 
 * Research Group Meeting Times: TBD
-* Meeting with Research Mentor: TBD
+* Meeting with Research Mentor: Thu 2:30-3pm, HFH 1152
 * Meeting with ERSP Grad Mentor (May):
 * Meeting with Dr. Mirza:
 
