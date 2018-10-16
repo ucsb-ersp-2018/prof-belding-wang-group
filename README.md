@@ -40,9 +40,9 @@ All our project documents are available in the following private repositories. I
 
 ### Individual logs: 
 * [Andrew's log](https://github.com/ucsb-ersp-2018/nlp-andrewg-research-log.git)
-* [Shirlyn's log](https://github.com/ucsb-ersp-2018/nlp-shirlyn-log.git)
-* [Tony's log](https://github.com/ucsb-ersp-2018/nlp-tony-log.git)
-* [Yuxin's log](https://github.com/ucsb-ersp-2018/nlp-yuxin-log.git)
+* [Shirlyn's log](https://github.com/ucsb-ersp-2018/nlp-shirlynt-research-log.git)
+* [Tony's log](https://github.com/ucsb-ersp-2018/nlp-tonys-research-log.git)
+* [Yuxin's log](https://github.com/ucsb-ersp-2018/nlp-yuxinh-research-log.git)
 
 ### Group Log
 
