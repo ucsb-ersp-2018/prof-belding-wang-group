@@ -11,10 +11,9 @@ Our cohort:
 
 ## Weekly Meeting Times
 
-* Research Group Meeting Times: TBD
+* Research Group Meeting Times: Sat 12-2, UCSB Library
 * Meeting with Professor Wang: Thu 4-4.30pm, HFH 1152
-* Meeting with ERSP Grad Mentor (May):
-* Meeting with Dr. Mirza:
+* Meeting with ERSP Grad Mentor (May): Thu 3:30-4:00, location TBD
 
 
 ## Public Resources
