@@ -46,3 +46,4 @@ All our project documents are available in the following private repositories. I
 ### Group Log
 
 * [NLP Group log](https://github.com/ucsb-ersp-2018/nlp-group-log.git)
+* [NLP Group Reflection](https://docs.google.com/document/d/1H_V2T2gNRewMRvP6ARWIC2B2QxkSvJ1BujZ9456PTow/edit?usp=sharing)
