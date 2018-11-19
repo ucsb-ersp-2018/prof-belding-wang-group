@@ -50,3 +50,5 @@ All our project documents are available in the following private repositories. I
 
 ### Proposal Feedback
 * [April's Feedback](https://docs.google.com/document/d/172q5Gfs_UblJEXSgtPGgdl3AGuuTwcOptvLNOLrxpxk/edit?usp=sharing)
+* [Maggie's Feedback](https://docs.google.com/document/d/1y3cLSr_B5rXofy-40bxXkxGXJ-SJGM10q3Yzm9lQUcg/edit?usp=sharing)
+
