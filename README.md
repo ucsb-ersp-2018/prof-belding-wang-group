@@ -52,3 +52,6 @@ All our project documents are available in the following private repositories. I
 * [April's Feedback](https://docs.google.com/document/d/172q5Gfs_UblJEXSgtPGgdl3AGuuTwcOptvLNOLrxpxk/edit?usp=sharing)
 * [Maggie's Feedback](https://docs.google.com/document/d/1y3cLSr_B5rXofy-40bxXkxGXJ-SJGM10q3Yzm9lQUcg/edit?usp=sharing)
 
+### Proposal Revision: Week 9
+* [Research Paper Rough Draft](https://drive.google.com/file/d/1JVVIXviedOrumzEQq3BTeZ2suzx_vwWZ/view?usp=sharing)
+* Revisions in abstract and sections 1-4, 7; smaller revisions in sections 5-6, 8
