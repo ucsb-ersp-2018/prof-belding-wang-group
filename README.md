@@ -11,9 +11,10 @@ Our cohort:
 
 ## Weekly Meeting Times
 
-* Research Group Meeting Times: Sat 12-2, UCSB Library
+* Research Group Meeting Times: Sat 12-2pm, UCSB Library
 * Meeting with Professor Wang: Thu 4-4.30pm, HFH 1152
-* Meeting with ERSP Grad Mentor (May): Thu 3:30-4:00, location TBD
+* Meeting with Professor Mirza: Thu 1-2pm, HFH 1155
+* Meeting with ERSP Grad Mentor (May): Thu 3:30-4:00pm, location TBD
 
 
 ## Public Resources
@@ -56,3 +57,6 @@ All our project documents are available in the following private repositories. I
 * [Research Paper Rough Draft (Previous)](https://drive.google.com/file/d/14CLz4sICVV8Gf-DKelZCtkQ5Yns8tXfx/view?usp=sharing)
 * [Research Paper Rough Draft](https://drive.google.com/file/d/1JUkQunNWWxswSkXaE4VysF0pVoMAz37o/view?usp=sharing)
 * Revisions in abstract and sections 1-4, 7; smaller revisions in sections 5-6, 8
+
+### Research Poster
+At the end of the year, we created a [poster](https://drive.google.com/file/d/13P8ClVa1EKGcEkSDQASHIziiIJjXIArZ/view) summarizing our work.
